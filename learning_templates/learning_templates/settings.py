@@ -25,7 +25,7 @@ SECRET_KEY = '57r#m)a=@t*r+48gz9(u(s%(fh97d=e771+i3yegyzr2(!sp0f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['felipepdo.pythonanywhere.com','*']
+ALLOWED_HOSTS = ['62.131.229.114']
 
 
 # Application definition
